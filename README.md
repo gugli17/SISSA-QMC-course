@@ -9,7 +9,7 @@
 25/11: VMC, local energy, gradients
 28/11: Natural gradients, SR, Restricted Bolzmann Machine as ansatz
 
-2/12:
+2/12: Cusp condition, DMC naive algorithm
 4/12:
 
 9/12:
