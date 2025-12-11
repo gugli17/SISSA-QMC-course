@@ -10,16 +10,15 @@
 28/11: Natural gradients, SR, Restricted Bolzmann Machine as ansatz
 
 2/12: Cusp condition, DMC naive algorithm
-4/12:
+4/12: Importance sampling DMC
 
-9/12:
-11/12:
+9/12: PIMC for continuos systems and 1 spin 1/2
+11/12: PIMC for TFIM, Loop Algorithm 
 
 16/12:
 18/12:
 
 +++ Minimal Exercises to be done for evaluation 
-[[not final list, confirmed are 1) and 2) ]]
 [[ notice the OR statement ]]
 
  1) Ex. 2.5.1: Critical Slowing Down in the 2D Ising Model
@@ -28,8 +27,13 @@
                    OR
  2b) Ex. 3.1.4: VMC for the Helium atom 
 
- 3a) Ex. 4.5.1: Single-walker DMC for the Helium atom
+ 
+                   
+ 3a) Ex. 5.4.2: PIMC for TFIM (ex 5.4.1 strongly recommended as prerequisite)
                    OR
- 3b) "I still have to write the exercise but will be about PIMC"
+ 3b) Ex. 4.5.1: Single-walker DMC for the Helium atom
+
+So avilable combination are 1-2a-3a; 1-2a-3b; 1-2b-3a; 1-2b-3b
+Disclaimer: for Ex. 4.5.1 you need the local energy computed in Ex. 3.1.4, so be advised if you choose the "path" 1-2a-3b.
 
  
