@@ -15,8 +15,8 @@
 9/12: PIMC for continuos systems and 1 spin 1/2
 11/12: PIMC for TFIM, Loop Algorithm 
 
-16/12:
-18/12:
+16/12:  Skipped - Progress reports
+18/12:  Pseudodynamics of PIMC, sign problem, complexity theory
 
 +++ Minimal Exercises to be done for evaluation 
 [[ notice the OR statement ]]
